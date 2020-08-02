@@ -1,0 +1,9 @@
+// My First C++ Program
+
+#include <iostream>
+
+void main() {
+     int a=10;
+    std::cout << "Hello World!";
+    return;
+}
